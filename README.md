@@ -1,4 +1,3 @@
-# JobMailingClient
 
 This Mailing client is used to send mail to all the Recruiter which are present in your LinkedIn profile.
 
@@ -18,4 +17,4 @@ Steps to Proceed :
 
   https://www.linkedin.com/people/export-settings
 
-6)  Edit and copy Config.xml accordingly.
+6)  Edit and copy Config.xml accordingly..
