@@ -1,0 +1,1 @@
+java -jar sendMailLinkedin.jar -csv Config.xml
