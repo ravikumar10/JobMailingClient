@@ -1,4 +1,6 @@
 
+This Tool is under GPL.
+
 This Mailing client is used to send mail to all the Recruiter which are present in your LinkedIn profile.
 
 Steps to Proceed :
